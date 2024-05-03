@@ -1,6 +1,6 @@
 /*
  * INSTRUCTION:
- *     This is a C++ starting code for hw 10_1.
+ *     This is a C++ starting code for hw 11_1.
  */
 
 // Finish the head comment with Abstract, Name, and Date.
